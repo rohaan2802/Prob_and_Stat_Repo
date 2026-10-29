@@ -1,0 +1,24 @@
+# R session files (recreated when R runs)
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Visual Studio / VS Code and build output
+.vs/
+.vscode/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.user
+*.suo
+
+# Office lock files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
