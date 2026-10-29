@@ -69,9 +69,9 @@ Probability and Statistics at FAST-NUCES Islamabad, Spring 2026. The repository 
 | Lectures | 30 |
 | Assignments | 5 |
 | Quiz files | 14 |
-| PDF documents | 86 |
+| PDF documents | 85 |
 | Screenshots | 30 |
-| Files in total | 89 |
+| Files in total | 88 |
 
 ## Lectures
 
@@ -128,7 +128,7 @@ Probability and Statistics at FAST-NUCES Islamabad, Spring 2026. The repository 
 
 ```text
 Prob_and_Stat_Repo/
-├── Assignments/                       (10 files)
+├── Assignments/                       (9 files)
 ├── Books/                             (2 files)
 ├── FinalProject/                      (1 file)
 ├── Lecture #01/                       (2 files)
