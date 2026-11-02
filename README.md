@@ -19,50 +19,10 @@ My Probability and Statistics course work – thirty lectures with practice shee
 ## Live Links
 
 | What | Link |
-|---|---|
-| Repository | [rohaan2802/Prob_and_Stat_Repo](https://github.com/rohaan2802/Prob_and_Stat_Repo) |
-| Website (GitHub Pages) | [rohaan2802.github.io/Prob_and_Stat_Repo](https://rohaan2802.github.io/Prob_and_Stat_Repo/) |
-| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Prob_and_Stat_Repo/archive/refs/heads/main.zip) |
-| Course folder | [Lecture #01](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2301) |
-| Course folder | [Lecture #02](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2302) |
-| Course folder | [Lecture #03](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2303) |
-| Course folder | [Lecture #04](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2304) |
-| Course folder | [Lecture #05](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2305) |
-| Course folder | [Lecture #06](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2306) |
-| Course folder | [Lecture #07](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2307) |
-| Course folder | [Lecture #08](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2308) |
-| Course folder | [Lecture #09](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2309) |
-| Course folder | [Lecture #10](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2310) |
-| Course folder | [Lecture #11](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2311) |
-| Course folder | [Lecture #12](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2312) |
-| Course folder | [Lecture #13](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2313) |
-| Course folder | [Lecture #14](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2314) |
-| Course folder | [Lecture #15](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2315) |
-| Course folder | [Lecture #16](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2316) |
-| Course folder | [Lecture #17](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2317) |
-| Course folder | [Lecture #18](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2318) |
-| Course folder | [Lecture #19](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2319) |
-| Course folder | [Lecture #20](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2320) |
-| Course folder | [Lecture #21](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2321) |
-| Course folder | [Lecture #22](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2322) |
-| Course folder | [Lecture #23](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2323) |
-| Course folder | [Lecture #24](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2324) |
-| Course folder | [Lecture #25](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2325) |
-| Course folder | [Lecture #26](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2326) |
-| Course folder | [Lecture #27](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2327) |
-| Course folder | [Lecture #28](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2328) |
-| Course folder | [Lecture #29](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2329) |
-| Course folder | [Lecture #30](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Lecture%20%2330) |
-| Course folder | [Assignments](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Assignments) |
-| Course folder | [Quizes](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Quizes) |
-| Course folder | [Sessionals Solution](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Sessionals%20Solution) |
-| Final project folder | [FinalProject](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/FinalProject) |
-| Final project | [Proability &  Statistics Project.pdf](https://github.com/rohaan2802/Prob_and_Stat_Repo/blob/main/FinalProject/Proability%20%26%20%20Statistics%20Project.pdf) |
-| Study notes | [Notes & Practice Questions](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Notes%20%26%20Practice%20Questions) |
-| Study notes | [Practice Questions.pdf](https://github.com/rohaan2802/Prob_and_Stat_Repo/blob/main/Notes%20%26%20Practice%20Questions/Practice%20Questions.pdf) |
-| Study notes | [Degrees of Freedom Explained.pdf](https://github.com/rohaan2802/Prob_and_Stat_Repo/blob/main/Notes%20%26%20Practice%20Questions/Degrees%20of%20Freedom%20Explained.pdf) |
-| Other useful path | [Books](https://github.com/rohaan2802/Prob_and_Stat_Repo/tree/main/Books) |
-| Other useful path | [LICENSE](https://github.com/rohaan2802/Prob_and_Stat_Repo/blob/main/LICENSE) |
+|------|------|
+| Repository | [https://github.com/rohaan2802/Prob_and_Stat_Repo](https://github.com/rohaan2802/Prob_and_Stat_Repo) |
+| Website (GitHub Pages) | [https://rohaan2802.github.io/Prob_and_Stat_Repo/](https://rohaan2802.github.io/Prob_and_Stat_Repo/) |
+| Download whole repository (ZIP) | [https://github.com/rohaan2802/Prob_and_Stat_Repo/archive/refs/heads/main.zip](https://github.com/rohaan2802/Prob_and_Stat_Repo/archive/refs/heads/main.zip) |
 
 ---
 
